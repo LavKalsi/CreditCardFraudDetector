@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CreditCardFraudDetector/static/css/main.ab5e0db6.css",
+    "main.css": "/CreditCardFraudDetector/static/css/main.637de395.css",
     "main.js": "/CreditCardFraudDetector/static/js/main.316ec769.js",
     "static/js/453.9bd0ce98.chunk.js": "/CreditCardFraudDetector/static/js/453.9bd0ce98.chunk.js",
     "index.html": "/CreditCardFraudDetector/index.html",
-    "main.ab5e0db6.css.map": "/CreditCardFraudDetector/static/css/main.ab5e0db6.css.map",
+    "main.637de395.css.map": "/CreditCardFraudDetector/static/css/main.637de395.css.map",
     "main.316ec769.js.map": "/CreditCardFraudDetector/static/js/main.316ec769.js.map",
     "453.9bd0ce98.chunk.js.map": "/CreditCardFraudDetector/static/js/453.9bd0ce98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab5e0db6.css",
+    "static/css/main.637de395.css",
     "static/js/main.316ec769.js"
   ]
 }
