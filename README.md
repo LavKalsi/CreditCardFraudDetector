@@ -66,7 +66,7 @@ Credit Card Fraud Detector is a web application built with React for the fronten
 
 3. Run the backend server:
     ```sh
-    python res/app.py
+    python res/FraudDetector.py
     ```
 
 ## Usage
@@ -91,8 +91,8 @@ The backend is a Python Flask application that serves a machine learning model t
 
 ### Files in `res` Folder
 
-- `app.py`: The Flask application that handles HTTP requests from the frontend.
-- `model.pkl`: The trained machine learning model.
+- `FraudDetector.py`: The Flask application that handles HTTP requests from the frontend.
+- `CreditCard.model`: The trained machine learning model.
 - `requirements.txt`: The dependencies required for the Python backend.
 
 ## Contributing
